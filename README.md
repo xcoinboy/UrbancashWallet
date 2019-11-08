@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/xcoinboy/cryptonotewallet.git
+git clone https://github.com/xcoinboy/UrbancashWallet.git
 ```
 
 **2. Modify `CryptoNoteWallet.cmake`**
