@@ -1,15 +1,15 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/cryptonotefoundation/cryptonotewallet.git
+git clone https://github.com/xcoinboy/cryptonotewallet.git
 ```
 
 **2. Modify `CryptoNoteWallet.cmake`**
  
 ```
-set(CN_PROJECT_NAME "furiouscoin")
-set(CN_CURRENCY_DISPLAY_NAME "FuriousCoin")
-set(CN_CURRENCY_TICKER "XFC")
+set(CN_PROJECT_NAME "urbancash")
+set(CN_CURRENCY_DISPLAY_NAME "UrbanCash")
+set(CN_CURRENCY_TICKER "UBC")
 ```
 
 **3. Set symbolic link to coin sources at the same level as `src`. For example:**
